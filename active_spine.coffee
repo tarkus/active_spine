@@ -84,6 +84,7 @@ else if theme is 'fade'
       current.el.css({ opacity: 0, display: 'block' }).animate { opacity: 1 }, Math.random() * 100 + 400, =>
         current.activate(args)
 
+Spine.Stack::swap = {} if Spine.Stack
 
 Spine.Controller.include
 
