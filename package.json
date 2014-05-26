@@ -1,0 +1,22 @@
+{
+  "name": "active_spine",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tarkus/active_spine.git"
+  },
+  "author": "Tarkus Liu <tarkus.nnkh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarkus/active_spine/issues"
+  },
+  "homepage": "https://github.com/tarkus/active_spine",
+  "devDependencies": {
+    "coffee-script": "^1.7.1"
+  }
+}
